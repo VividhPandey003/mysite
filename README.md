@@ -1,3 +1,3 @@
 # mysite
 
-## deployed just as a practice/fun activity on github
+deployed just as a practice/fun activity on githubpages
